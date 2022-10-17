@@ -1,0 +1,21 @@
+﻿  mssqldb.cpp
+D:\Family Folder\Father Folder\OrderMgmtDBStatic\mssqldb.cpp(118,13): warning C4477: 'printf_s' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'SQLWCHAR *'
+D:\Family Folder\Father Folder\OrderMgmtDBStatic\mssqldb.cpp(118,13): message : consider using '%ls' in the format string
+D:\Family Folder\Father Folder\OrderMgmtDBStatic\mssqldb.cpp(118,13): message : consider using '%lls' in the format string
+D:\Family Folder\Father Folder\OrderMgmtDBStatic\mssqldb.cpp(118,13): message : consider using '%Ls' in the format string
+D:\Family Folder\Father Folder\OrderMgmtDBStatic\mssqldb.cpp(118,13): message : consider using '%ws' in the format string
+D:\Family Folder\Father Folder\OrderMgmtDBStatic\mssqldb.cpp(118,13): warning C4477: 'printf_s' : format string '%s' requires an argument of type 'char *', but variadic argument 4 has type 'SQLWCHAR *'
+D:\Family Folder\Father Folder\OrderMgmtDBStatic\mssqldb.cpp(118,13): message : consider using '%ls' in the format string
+D:\Family Folder\Father Folder\OrderMgmtDBStatic\mssqldb.cpp(118,13): message : consider using '%lls' in the format string
+D:\Family Folder\Father Folder\OrderMgmtDBStatic\mssqldb.cpp(118,13): message : consider using '%Ls' in the format string
+D:\Family Folder\Father Folder\OrderMgmtDBStatic\mssqldb.cpp(118,13): message : consider using '%ws' in the format string
+D:\Family Folder\Father Folder\OrderMgmtDBStatic\mssqldb.cpp(209,11): warning C4101: 'sqlResult': unreferenced local variable
+D:\Family Folder\Father Folder\OrderMgmtDBStatic\mssqldb.cpp(264,11): warning C4101: 'sqlResult': unreferenced local variable
+D:\Family Folder\Father Folder\OrderMgmtDBStatic\mssqldb.cpp(372,11): warning C4101: 'sqlResult': unreferenced local variable
+D:\Family Folder\Father Folder\OrderMgmtDBStatic\mssqldb.cpp(418,11): warning C4101: 'sqlResult': unreferenced local variable
+D:\Family Folder\Father Folder\OrderMgmtDBStatic\mssqldb.cpp(472,11): warning C4101: 'sqlResult': unreferenced local variable
+D:\Family Folder\Father Folder\OrderMgmtDBStatic\mssqldb.cpp(484,8): warning C4101: 'buffer': unreferenced local variable
+D:\Family Folder\Father Folder\OrderMgmtDBStatic\mssqldb.cpp(537,11): warning C4101: 'sqlResult': unreferenced local variable
+D:\Family Folder\Father Folder\OrderMgmtDBStatic\mssqldb.cpp(549,8): warning C4101: 'buffer': unreferenced local variable
+D:\Family Folder\Father Folder\OrderMgmtDBStatic\mssqldb.cpp(665,11): warning C4101: 'sqlResult': unreferenced local variable
+  OrderMgmtDB.vcxproj -> D:\Family Folder\Father Folder\OrderMgmtDBStatic\Debug\OrderMgmtDB.exe
